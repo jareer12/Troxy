@@ -1,0 +1,37 @@
+[
+  {
+    "pid": 8032,
+    "port": 5000,
+    "target": "https://users.roblox.com",
+    "targetPort": 443,
+    "logging": true
+  },
+  {
+    "pid": 5764,
+    "port": 5000,
+    "target": "https://users.roblox.com",
+    "targetPort": 443,
+    "logging": true
+  },
+  {
+    "pid": 11232,
+    "port": 5000,
+    "target": "https://users.roblox.com",
+    "targetPort": 443,
+    "logging": true
+  },
+  {
+    "pid": 3080,
+    "port": 5000,
+    "target": "https://users.roblox.com",
+    "targetPort": 443,
+    "logging": true
+  },
+  {
+    "pid": 17584,
+    "port": 4500,
+    "target": "https://api.roblox.com",
+    "targetPort": 443,
+    "logging": true
+  }
+]
